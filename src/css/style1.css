@@ -1,0 +1,20 @@
+h1{
+    background-color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: teal;
+}
+p{
+    /* background-color: rgb(241, 241, 249); */
+    color: rgb(0, 0, 0);
+    font-size: 8px;
+}
+.table {
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
